@@ -6,5 +6,6 @@ public class Movie {
     boolean incluidoNoPlano;
     double avaliacao;
     int totalDeAvaliacoes;
+    int duracaoEmMinutos;
 
 }
